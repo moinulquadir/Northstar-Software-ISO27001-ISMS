@@ -1,0 +1,5 @@
+Request ID,Date,Requester,System,Role,Approver,Result
+AR-001,2026-08-04,New Engineer,Source Repository,Developer,Engineering Manager,Approved
+AR-002,2026-08-12,Support Lead,Customer Support,Supervisor,Support Manager,Approved
+AR-003,2026-09-02,Cloud Engineer,AWS Production,ReadOnly,CTO,Approved
+AR-004,2026-09-15,Contractor,Analytics,Temporary,Data Owner,Approved - expires 2026-10-15

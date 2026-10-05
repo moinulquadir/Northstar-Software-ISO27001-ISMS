@@ -1,0 +1,10 @@
+Evidence ID,Control Area,Evidence,Owner,Frequency,Status
+E-001,Access,Quarterly access review,IT,Quarterly,Available
+E-002,Privileged access,Privileged review,Security,Quarterly,Available
+E-003,Vulnerability,Vulnerability register,Security,Monthly,Available
+E-004,Incident,Incident register,Security,Per event,Available
+E-005,Backup,Restore test record,Cloud Ops,Quarterly,Available
+E-006,SDLC,Code review checklist,Engineering,Per release,Available
+E-007,Supplier,Supplier register,Vendor Mgmt,Annual,Available
+E-008,Audit,Internal audit report,Internal Audit,Annual,Available
+E-009,Management,Review minutes,COO,Quarterly,Available

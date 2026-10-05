@@ -1,0 +1,4 @@
+Change,Date,System,Risk,Approver,Result
+CHG-001,2026-08-03,Production API,Medium,CTO,Successful
+CHG-002,2026-08-22,Identity Provider,High,IT Manager,Successful
+CHG-003,2026-09-18,Logging Platform,Medium,Security Ops Lead,Successful

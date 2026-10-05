@@ -1,0 +1,11 @@
+Asset ID,Asset,Owner,Criticality,Classification,Threat,Vulnerability
+A-001,Production SaaS,CTO,Critical,Confidential,Account compromise,Excess privilege
+A-002,Customer DB,Data Owner,Critical,Restricted,Data theft,Unauthorized access
+A-003,API,Engineering,Critical,Confidential,Exploit,Application flaw
+A-004,Identity Provider,IT,Critical,Restricted,Credential attack,Misconfiguration
+A-005,Source Repository,Engineering,High,Confidential,Code theft,Weak access
+A-006,CI/CD,Engineering,High,Internal,Supply-chain attack,Compromised dependency
+A-007,Laptops,IT,High,Confidential,Malware,Unpatched endpoint
+A-008,SIEM/Logs,Security Ops,High,Confidential,Tampering,Excess access
+A-009,Backups,Cloud Ops,Critical,Restricted,Ransomware,Insufficient isolation
+A-010,Support SaaS,Support,High,Confidential,Data disclosure,Third-party risk

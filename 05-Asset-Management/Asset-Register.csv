@@ -1,0 +1,21 @@
+Asset ID,Asset,Owner,Criticality,Classification,Location,Review
+A-001,Production SaaS platform,CTO,Critical,Confidential,AWS,Quarterly
+A-002,Customer database,Data Owner,Critical,Restricted,AWS,Quarterly
+A-003,Production API,Engineering,Critical,Confidential,AWS,Quarterly
+A-004,Identity provider,IT Manager,Critical,Restricted,Cloud,Quarterly
+A-005,Source code repository,Engineering,High,Confidential,Cloud,Quarterly
+A-006,CI/CD platform,Engineering,High,Internal,Cloud,Quarterly
+A-007,Employee laptops,IT Manager,High,Confidential,Remote/Office,Quarterly
+A-008,Security logging platform,Security Ops,High,Confidential,Cloud,Quarterly
+A-009,Backup repository,Cloud Ops,Critical,Restricted,Cloud,Quarterly
+A-010,Customer support platform,Support Manager,High,Confidential,Cloud,Quarterly
+A-011,HR information system,HR Manager,High,Restricted,Cloud,Quarterly
+A-012,Finance system,Finance Manager,High,Restricted,Cloud,Quarterly
+A-013,Corporate email,IT Manager,High,Confidential,Cloud,Quarterly
+A-014,VPN/remote access,IT Manager,High,Confidential,Cloud,Quarterly
+A-015,Office network,IT Manager,Medium,Internal,New York,Quarterly
+A-016,DNS/domain services,IT Manager,High,Internal,Cloud,Quarterly
+A-017,Secrets manager,Security Engineering,Critical,Restricted,Cloud,Quarterly
+A-018,Monitoring platform,Cloud Ops,High,Internal,Cloud,Quarterly
+A-019,Vendor contracts,Legal,Medium,Confidential,Corporate,Annual
+A-020,Security policies and records,ISMS Manager,High,Internal,Corporate,Annual

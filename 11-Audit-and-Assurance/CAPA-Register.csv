@@ -1,0 +1,4 @@
+CAPA ID,Source,Finding,Root Cause,Action,Owner,Due,Status
+CAPA-001,Internal audit,One policy review date not recorded,Document-control checklist incomplete,Add review-date validation,ISMS Manager,2026-10-10,Open
+CAPA-002,DR test,DNS runbook caused delay,Procedure not updated after architecture change,Update runbook and retest,Cloud Ops,2026-10-15,Open
+CAPA-003,Access review,One stale entitlement,Manager review missed role change,Add HR-to-IAM reconciliation,IT Manager,2026-10-20,Open

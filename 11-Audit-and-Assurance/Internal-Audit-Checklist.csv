@@ -1,0 +1,9 @@
+Test,Criteria,Sample Evidence,Result
+Document control,Approved current documents,Policy register,Pass
+Access control,Approved and reviewed access,Access review,Pass
+Privileged access,Quarterly review,Privileged review,Pass
+Vulnerability management,Risk-based remediation,Vulnerability register,Pass
+Incident response,Records and lessons learned,Incident register,Pass
+Backup,Restore testing,Restore records,Pass
+Supplier security,Due diligence,Vendor register,Pass
+Internal audit,Independence and follow-up,Audit report,Pass

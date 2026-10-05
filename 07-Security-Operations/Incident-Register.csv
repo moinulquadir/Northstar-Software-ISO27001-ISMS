@@ -1,0 +1,4 @@
+Incident,Date,Type,Severity,Summary,Response,Status
+INC-001,2026-07-14,Phishing,Medium,Employee entered credentials on fake login page,Reset credentials and reviewed sign-in logs,Closed
+INC-002,2026-08-19,Malware,High,Endpoint alert on developer laptop,Isolated host and rebuilt device,Closed
+INC-003,2026-09-11,Access anomaly,Medium,Unexpected privileged login,Disabled session and reviewed activity,Closed

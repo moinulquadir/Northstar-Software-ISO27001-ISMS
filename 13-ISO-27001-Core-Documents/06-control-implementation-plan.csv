@@ -1,0 +1,9 @@
+Control Area,Control Objective,Policy,Procedure,Evidence,Owner,Status
+Access,Least privilege,P-002,PR-002/003/004,Access logs/reviews,IT,Implemented
+Assets,Complete inventory,P-003,PR-005/006,Asset register,IT,Implemented
+Incidents,Consistent response,P-010,PR-011/012/013,Incident records,Security,Implemented
+Vulnerabilities,Risk-based remediation,P-012,PR-009/010,Vulnerability register,Security,Implemented
+SDLC,Secure releases,P-013,PR-017/018,Review/testing records,Engineering,Implemented
+Suppliers,Third-party risk,P-009,PR-019,Supplier register,Vendor Mgmt,Implemented
+Continuity,Recover critical services,P-011,PR-014/015,DR/restore tests,Operations,Partial
+Audit,Independent assurance,P-020,PR-020/021,Audit/CAPA,Internal Audit,Implemented

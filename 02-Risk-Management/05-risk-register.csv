@@ -1,0 +1,13 @@
+Risk ID,Asset/Process,Threat,Vulnerability,Likelihood,Impact,Inherent,Existing Controls,Treatment,Owner,Residual
+R-001,SaaS customer data,Credential compromise,Weak authentication,3,5,15,MFA/RBAC,Mitigate,IT Manager,6
+R-002,AWS production,Cloud misconfiguration,Excess permissions,3,5,15,IAM/reviews,Mitigate,Cloud Lead,6
+R-003,Source code,Supplier compromise,Dependency risk,3,4,12,Code review/scanning,Mitigate,Engineering,6
+R-004,Endpoints,Malware,Unpatched device,3,4,12,EDR/patching,Mitigate,IT Manager,4
+R-005,Customer support,Phishing,User deception,4,4,16,Training/MFA,Mitigate,Security Manager,8
+R-006,Backups,Ransomware,Insufficient isolation,2,5,10,Protected backups,Mitigate,Cloud Lead,5
+R-007,Production service,DDoS,Internet exposure,3,4,12,Cloud protections,Transfer,Cloud Lead,6
+R-008,HR data,Unauthorized disclosure,Excess access,2,4,8,RBAC/reviews,Mitigate,HR,4
+R-009,Office,Physical theft,Unsecured equipment,2,3,6,Access controls/encryption,Mitigate,IT Manager,3
+R-010,CI/CD,Malicious change,Insufficient review,2,5,10,Peer review/change control,Mitigate,Engineering,4
+R-011,SaaS availability,Cloud outage,Provider dependency,2,5,10,Redundancy/DR,Mitigate,Operations,5
+R-012,Logs,Tampering,Overprivileged access,2,4,8,Restricted access,Mitigate,Security Ops,4

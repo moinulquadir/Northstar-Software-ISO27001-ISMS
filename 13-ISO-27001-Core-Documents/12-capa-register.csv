@@ -1,0 +1,4 @@
+CAPA ID,Source,Issue,Action,Owner,Due,Verification
+CAPA-001,Audit,Missing document review date,Update document-control checklist,ISMS Manager,2026-10-10,Pending
+CAPA-002,DR Test,DNS runbook delay,Update and retest runbook,Cloud Ops,2026-10-15,Pending
+CAPA-003,Observation,Supplier evidence scattered,Centralize assurance records,Vendor Mgmt,2026-10-20,Pending

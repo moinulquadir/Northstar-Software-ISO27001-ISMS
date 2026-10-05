@@ -1,0 +1,9 @@
+Risk ID,Threat Scenario,Likelihood,Impact,Inherent Risk,Treatment,Residual Risk,Owner
+R-001,Compromised user credentials,3,5,15,MFA and access review,6,IT
+R-002,AWS privilege escalation,3,5,15,RBAC and privileged review,6,Cloud Ops
+R-003,Software supply-chain compromise,3,4,12,Dependency scanning and review,6,Engineering
+R-004,Ransomware affecting backups,2,5,10,Protected backup and restore tests,5,Cloud Ops
+R-005,Phishing causes account takeover,4,4,16,Training/MFA/monitoring,8,Security
+R-006,Cloud outage affects SaaS,2,5,10,DR and redundancy,5,Operations
+R-007,Customer data disclosure,2,5,10,Classification/RBAC/DLP,5,Data Owner
+R-008,Unauthorized production change,2,5,10,Change control and peer review,4,Engineering

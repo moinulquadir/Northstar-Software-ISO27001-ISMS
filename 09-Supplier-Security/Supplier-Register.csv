@@ -1,0 +1,5 @@
+Supplier,Service,Criticality,Data/Access,Due Diligence,Review
+AWS,Cloud hosting,Critical,Customer data,SOC assurance + contract,Annual
+Identity Provider,Authentication,Critical,Identity data,Questionnaire + assurance,Annual
+Customer Support SaaS,Support operations,High,Customer metadata,Questionnaire + DPA,Annual
+Code Hosting Provider,Source code,Critical,Source code,Assurance + contract,Annual

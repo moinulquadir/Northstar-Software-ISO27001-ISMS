@@ -1,0 +1,3 @@
+Test ID,Release,Scope,Method,Findings,Retest,Status
+ST-001,2026.08,Customer API,SAST+DAST,1 medium,Passed,Closed
+ST-002,2026.09,Admin portal,DAST+manual,0,Not required,Closed
